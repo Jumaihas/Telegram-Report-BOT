@@ -1,4 +1,5 @@
 # Telegram-Report-BOT
+<p align="center"><img src="logo.png" width="300px" height="200px" alt="insta logo"></p>
 This is a mass report bot from many users worldwide, Bot can report a User / channel / group with max 880k Subscribers.
 
 ## Telegram Channel:
@@ -10,4 +11,3 @@ This is a mass report bot from many users worldwide, Bot can report a User / cha
 - Check the proof.
 - Under the videos you will see my contact.
 <hr>
-<img src="https://i.postimg.cc/WbJyHdMm/palrnus.jpg" alt="Trulli" width="439" height="432">
